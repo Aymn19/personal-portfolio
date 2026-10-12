@@ -35,7 +35,7 @@ const projectsData = [
       "AI Job Recommender System is an intelligent career assistant powered by Generative Artificial Intelligence that helps job seekers analyze their professional profile, identify skill gaps, and discover relevant career opportunities.The platform uses Large Language Models (LLMs) to understand a candidate’s resume, extract key information such as skills, education, and experience, then generate personalized career insights including a professional summary, skill improvement recommendations, learning roadmap, and matching job opportunities.The goal of this project is to simplify the job search process by providing candidates with an AI-powered assistant that not only recommends jobs but also guides them in improving their skills and career development.",
     image: "/projects/img12.png",
     tags: ["Python","Generative AI","Streamlit","Ollama","Streamlit","Apify API","Web Scraping Automation","REST APIs","Python-dotenv"],
-    link: "#",
+    link: "https://job-recommender-adwg6oqkouwvfs6bnvaa3f.streamlit.app/",
     github: "https://github.com/settings/copilot/features",
   },
 ];
