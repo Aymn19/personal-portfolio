@@ -8,7 +8,7 @@ const projectsData = [
       "Developed a full-stack web application for international schools, featuring role-based user management, class scheduling, attendance and grade tracking, notifications, and real-time messaging. The project aimed to centralize school management processes and improve communication between administrators, teachers, parents, and students.",
     images: ["/projects/image1.png", "/projects/i.png"],
     tags: ["Laravel", "TypeScript", "MySQL"],
-    link: "#",
+    link: "https://jubilant-acceptance-production-8ca3.up.railway.app/",
     github: "https://github.com/settings/copilot/features",
   },
   {
